@@ -4,10 +4,12 @@
 
 A selection of my personal projects include:
 
-[Common](https://commondating.app/)  
-[Mono Reader](https://chromewebstore.google.com/detail/mono-reader/lckpiaicjkffeddnkhcddebeglaokplp)  
-[Norwester](https://norwester.pro/)  
-[Predawn](https://jamiewilson.github.io/predawn/)  
+| Status | Project |
+|--------|---------|
+| ![Static Badge](https://img.shields.io/badge/WIP-palegreen?style=flat-square) | [Common](https://commondating.app/) |
+| ![Static Badge](https://img.shields.io/badge/NEW-deepskyblue?style=flat-square) | [Mono Reader](https://chromewebstore.google.com/detail/mono-reader/lckpiaicjkffeddnkhcddebeglaokplp) |
+| ![Static Badge](https://img.shields.io/badge/BUY-gold?style=flat-square) | [Norwester](https://norwester.pro/) |
+| ![Static Badge](https://img.shields.io/badge/TRY-darkorange?style=flat-square) | [Predawn](https://jamiewilson.github.io/predawn/) |
 
 See more projects below.
 
