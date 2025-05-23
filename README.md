@@ -4,16 +4,12 @@
 
 A selection of my personal projects include:
 
-Common
-Mono Reader
-Norwester
-Predawn
-Form To Google Sheets
-Dewey Bookmarks
-Stylesheets.co
-Corpus CSS
-Darkside
-Welderwire
+[Common](https://commondating.app/)  
+[Mono Reader](https://chromewebstore.google.com/detail/mono-reader/lckpiaicjkffeddnkhcddebeglaokplp)  
+[Norwester](https://norwester.pro/)  
+[Predawn](https://jamiewilson.github.io/predawn/)  
+
+See more projects below.
 
 Reach me at jamie@jamiewilson.io
-Bye. Thanks for stopping by.
+**Bye. Thanks for stopping by.**
