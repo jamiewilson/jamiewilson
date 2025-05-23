@@ -5,7 +5,7 @@
 A selection of my personal projects include:
 
 | Status | Project |
-|--------|---------|
+|:-------|:--------|
 | ![Static Badge](https://img.shields.io/badge/WIP-palegreen?style=flat-square) | [Common](https://commondating.app/) |
 | ![Static Badge](https://img.shields.io/badge/NEW-deepskyblue?style=flat-square) | [Mono Reader](https://chromewebstore.google.com/detail/mono-reader/lckpiaicjkffeddnkhcddebeglaokplp) |
 | ![Static Badge](https://img.shields.io/badge/BUY-gold?style=flat-square) | [Norwester](https://norwester.pro/) |
