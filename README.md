@@ -1,16 +1,19 @@
-## Hi there 👋
+# Design&Code
 
-<!--
-**jamiewilson/jamiewilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, I'm Jamie. I work at the intersection of design & code. Formerly at Twilio. Currently freelancing, building iOS apps, and tinkering on new personal projects.
 
-Here are some ideas to get you started:
+A selection of my personal projects include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Common
+Mono Reader
+Norwester
+Predawn
+Form To Google Sheets
+Dewey Bookmarks
+Stylesheets.co
+Corpus CSS
+Darkside
+Welderwire
+
+Reach me at jamie@jamiewilson.io
+Bye. Thanks for stopping by.
