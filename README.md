@@ -11,5 +11,5 @@ A selection of my personal projects include:
 
 See more projects below.
 
-Reach me at jamie@jamiewilson.io
+Reach me at jamie@jamiewilson.io  
 **Bye. Thanks for stopping by.**
