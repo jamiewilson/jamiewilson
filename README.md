@@ -1,6 +1,6 @@
-# Design&Code
+# Hello, I'm Jamie. 
 
-### Hello, I'm Jamie. I work at the intersection of design & code. Formerly at Twilio. Currently freelancing, building iOS apps, and tinkering on new personal projects.
+### I work at the intersection of design & code. Formerly at Twilio. Currently freelancing, building iOS apps, and tinkering on new personal projects.
 
 A selection of my personal projects include:
 
