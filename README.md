@@ -6,7 +6,7 @@ A selection of my personal projects include:
 
 | Status | Project |
 | :------- | :-------- |
-| ![Static Badge](https://img.shields.io/badge/NEW-palegreen?style=flat-square) | [Aero SSG](https://github.com/jamiewilson/aero) |
+| ![Static Badge](https://img.shields.io/badge/NEW-palegreen?style=flat-square) | [Aero](https://github.com/aerobuilt/aero) |
 | ![Static Badge](https://img.shields.io/badge/NEW-palegreen?style=flat-square) | [Mono Reader](https://chromewebstore.google.com/detail/mono-reader/lckpiaicjkffeddnkhcddebeglaokplp) |
 | ![Static Badge](https://img.shields.io/badge/WIP-deepskyblue?style=flat-square) | [Common](https://commondating.app/) |
 | ![Static Badge](https://img.shields.io/badge/BUY-gold?style=flat-square) | [Norwester Pro](https://norwester.pro/) |
